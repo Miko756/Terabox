@@ -5,12 +5,12 @@ BOT_TOKEN = ""
 MONGO_DB_URL=""
 DB_NAME="Terabox"
 
-HOST = ""  
-PORT =   
-PASSWORD = ""
+HOST = "redis://redis-15242.c13.us-east-1-3.ec2.redns.redis-cloud.com"  
+PORT =   15242
+PASSWORD = "vSEEAvPXcz2k5abnKJ5Q7Y6c8rYSc69t"
 
-PRIVATE_CHAT_ID = -1002147565122  
+PRIVATE_CHAT_ID =   
 
-OWNER_ID = 
+OWNER_ID = 6841175650
 
 USER_CHANNEL = -1002161533050
