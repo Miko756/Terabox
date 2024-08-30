@@ -10,7 +10,7 @@ class ApiKeyManager:
         self.current_index = (self.current_index + 1) % len(self.api_keys)
         return api_key
 
-api_keys = [""]
+api_keys = ["5ec69d04aae1668b07faa4c0227ff9ab3dc3e9e3"]
 api_key_manager = ApiKeyManager(api_keys)
 
 def post(dest, alias=None):
